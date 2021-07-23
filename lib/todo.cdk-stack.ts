@@ -89,11 +89,6 @@ export class TodoCdkStack extends Stack {
         allowOrigins: ['*'],
       },
     });
-    const commonProps = {
-      payloadFormatVersion: PayloadFormatVersion.VERSION_2_0,
-      integrationType: HttpIntegrationType.LAMBDA_PROXY,
-      httpApi: api,
-    };
 
     api.addRoutes({
       path: '/todo',
