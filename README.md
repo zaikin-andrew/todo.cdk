@@ -1,4 +1,7 @@
 # ToDo API for Medium
+
+https://medium.com/firstlineoutsourcing/todo-app-api-with-serverless-framework-terraform-aws-cdk-6eba6797200d
+
 This is a example project with TypeScript development with CDK.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
