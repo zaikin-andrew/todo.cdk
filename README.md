@@ -1,6 +1,5 @@
 # ToDo API for Medium
-
-https://medium.com/firstlineoutsourcing/todo-app-api-with-serverless-framework-terraform-aws-cdk-6eba6797200d
+### AWS CDK - AWS Node.js Typescript
 
 This is a example project with TypeScript development with CDK.
 
